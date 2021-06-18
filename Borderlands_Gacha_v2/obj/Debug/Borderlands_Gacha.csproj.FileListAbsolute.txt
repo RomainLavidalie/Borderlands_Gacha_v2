@@ -1,0 +1,6 @@
+C:\Users\Romaka\RiderProjects\Borderlands_Gacha\Borderlands_Gacha\obj\Debug\Borderlands_Gacha.csprojAssemblyReference.cache
+C:\Users\Romaka\RiderProjects\Borderlands_Gacha\Borderlands_Gacha\obj\Debug\Borderlands_Gacha.csproj.CoreCompileInputs.cache
+C:\Users\Romaka\RiderProjects\Borderlands_Gacha\Borderlands_Gacha\bin\Debug\Borderlands_Gacha.exe
+C:\Users\Romaka\RiderProjects\Borderlands_Gacha\Borderlands_Gacha\bin\Debug\Borderlands_Gacha.pdb
+C:\Users\Romaka\RiderProjects\Borderlands_Gacha\Borderlands_Gacha\obj\Debug\Borderlands_Gacha.exe
+C:\Users\Romaka\RiderProjects\Borderlands_Gacha\Borderlands_Gacha\obj\Debug\Borderlands_Gacha.pdb
